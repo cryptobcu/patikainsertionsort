@@ -1,5 +1,10 @@
-#app.patika.dev/bcu
-#Binary search tree
+# patikabinarysearchtree
+# https://app.patika.dev/bcu
+
+## Binary Search Tree Projesi
+
+
+Binary search tree
         
     [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]  root 6
     
@@ -8,3 +13,4 @@
      3    5              7    9
    1
  0   2
+
